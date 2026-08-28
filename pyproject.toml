@@ -1,0 +1,13 @@
+[project]
+name = "brachytherapy-optimization"
+version = "0.1.0"
+description = "Brachytherapy optimisation component developed as part of a class project on nonlinear engineering optimisation (Otimização Não-linear em Engenharia, Universidade de Aveiro, 2026)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "scipy>=1.17.1",
+    "xlrd>=2.0.2",
+]
+
