@@ -11,7 +11,11 @@
 
 The complete project report contains the mathematical formulation, sensitivity analysis, benchmark tests (13-bar truss, analytical functions), and a detailed discussion of results for **both** the brachytherapy problem and the bulletproof vest problem.
 
-The full report (Metaheuristic Optimisation of Nonlinear Engineering Problems) is part of a larger compendium which can be found [here]().
+The full report (Metaheuristic Optimisation of Nonlinear Engineering Problems) is part of a larger compendium with:
+- DOI: https://doi.org/10.48528/48c3-x460
+- ISBN: 978-989-9253-81-0
+
+> Note: The DOI may not be working due to recent cyber attack that affected University of Aveiro's institutional repositor.
 
 *This repository hosts only the code for the brachytherapy module. The bulletproof vest model (which used FEniCSx and Duffing oscillators) is described in the report and its code is available in a [separate repository](https://github.com/PedroFigueiredoLopes/Bulletproof-Vest-Optimization-2026).*
 
